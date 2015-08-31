@@ -1,5 +1,13 @@
 # Change Log
 
+## [v1.0.0](https://github.com/nubisproject/nubisproject.github.io/tree/v1.0.0) (2015-08-30)
+
+[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v0.9.0...v1.0.0)
+
+**Merged pull requests:**
+
+- Updating changelog for v0.9.0 release [\#8](https://github.com/Nubisproject/nubisproject.github.io/pull/8) ([gozer](https://github.com/gozer))
+
 ## [v0.9.0](https://github.com/nubisproject/nubisproject.github.io/tree/v0.9.0) (2015-07-22)
 
 **Merged pull requests:**
