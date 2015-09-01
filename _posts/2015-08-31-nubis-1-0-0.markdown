@@ -5,7 +5,7 @@ date:   2015-08-31 23:01:00
 categories: nubis update release
 ---
 
-It's finally here, the first official Nubis release!
+It's finally here, the first v1.x Nubis release!
 
 This release marks the first operational release of the Nubis Platform. It's only one
 more step in the direction of the clouds!
