@@ -1,9 +1,0 @@
----
-layout: post
-title:  "How teamwork works!"
-date:   2015-06-19 21:15:11
-categories: nubis update
----
-
-This will describe the working of teamwork in Nubis-land.
-
