@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Nubis v1.0.0"
+date:   2015-08-31 23:01:00
+categories: nubis update release
+---
+
+It's finally here, the first official Nubis release!
+
+This release marks the first operational release of the Nubis Platform. It's only one
+more step in the direction of the clouds!
+
+The Nubis Platform engineering team has been hard at work and this release marks the
+milestone point that will allow us to start productionizing real applications in real
+deployments.
+
+This release contains too many improvements to list them all, but they can be found
+in the Changelogs of all the different sub-projects.
+
+In short, this release includes:
+
+ - New per-application VPCs model
+ - Consul (Service Discovery and Distributed Key/Value Store)
+ - Many Puppet modules upgrades
+ - Jumphosts
+ - Continuous Integration (build & deploy)
+ - Centralized Log Collection and Archival (fluentd)
+ - Nested Stack for:
+   - EC2
+   - RDS (MySQL & PostgreSQL)
+   - Elasticache (Memcache)
+   - ELB (Load-Balancers)
+   - AutoScaling
+   - Storage (Ceph)
+   - Route53 (DNS)
+   - S3 (Object Storage)
+
+In numbers:
+
+ - **159** Pull Requests Merged
+ - **109** Issues Closed
