@@ -1,30 +1,38 @@
 # Change Log
 
-## [v1.0.0](https://github.com/nubisproject/nubisproject.github.io/tree/v1.0.0) (2015-08-30)
+## [v1.0.1](https://github.com/nubisproject/nubisproject.github.io/tree/v1.0.1) (2015-11-20)
+[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.0.0...v1.0.1)
 
+**Closed issues:**
+
+- Tag  release [\#13](https://github.com/nubisproject/nubisproject.github.io/issues/13)
+
+**Merged pull requests:**
+
+- cosmetic fix [\#12](https://github.com/nubisproject/nubisproject.github.io/pull/12) ([gozer](https://github.com/gozer))
+- Draft release announcement for v1.0.0 [\#11](https://github.com/nubisproject/nubisproject.github.io/pull/11) ([gozer](https://github.com/gozer))
+
+## [v1.0.0](https://github.com/nubisproject/nubisproject.github.io/tree/v1.0.0) (2015-08-31)
 [Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v0.9.0...v1.0.0)
 
+**Closed issues:**
+
+- Tag v1.0.0 release [\#10](https://github.com/nubisproject/nubisproject.github.io/issues/10)
+
 **Merged pull requests:**
 
-- Updating changelog for v0.9.0 release [\#8](https://github.com/Nubisproject/nubisproject.github.io/pull/8) ([gozer](https://github.com/gozer))
+- Updating changelog for v0.9.0 release [\#8](https://github.com/nubisproject/nubisproject.github.io/pull/8) ([gozer](https://github.com/gozer))
 
 ## [v0.9.0](https://github.com/nubisproject/nubisproject.github.io/tree/v0.9.0) (2015-07-22)
-
 **Merged pull requests:**
 
-- Add slack integration [\#7](https://github.com/Nubisproject/nubisproject.github.io/pull/7) ([gozer](https://github.com/gozer))
-
-- Test post [\#6](https://github.com/Nubisproject/nubisproject.github.io/pull/6) ([gozer](https://github.com/gozer))
-
-- Add CNAME [\#5](https://github.com/Nubisproject/nubisproject.github.io/pull/5) ([gozer](https://github.com/gozer))
-
-- Test [\#4](https://github.com/Nubisproject/nubisproject.github.io/pull/4) ([gozer](https://github.com/gozer))
-
-- Travis? [\#3](https://github.com/Nubisproject/nubisproject.github.io/pull/3) ([gozer](https://github.com/gozer))
-
-- Remove some boilerplate [\#2](https://github.com/Nubisproject/nubisproject.github.io/pull/2) ([gozer](https://github.com/gozer))
-
-- Test [\#1](https://github.com/Nubisproject/nubisproject.github.io/pull/1) ([gozer](https://github.com/gozer))
+- Add slack integration [\#7](https://github.com/nubisproject/nubisproject.github.io/pull/7) ([gozer](https://github.com/gozer))
+- Test post [\#6](https://github.com/nubisproject/nubisproject.github.io/pull/6) ([gozer](https://github.com/gozer))
+- Add CNAME [\#5](https://github.com/nubisproject/nubisproject.github.io/pull/5) ([gozer](https://github.com/gozer))
+- Test [\#4](https://github.com/nubisproject/nubisproject.github.io/pull/4) ([gozer](https://github.com/gozer))
+- Travis? [\#3](https://github.com/nubisproject/nubisproject.github.io/pull/3) ([gozer](https://github.com/gozer))
+- Remove some boilerplate [\#2](https://github.com/nubisproject/nubisproject.github.io/pull/2) ([gozer](https://github.com/gozer))
+- Test [\#1](https://github.com/nubisproject/nubisproject.github.io/pull/1) ([gozer](https://github.com/gozer))
 
 
 
