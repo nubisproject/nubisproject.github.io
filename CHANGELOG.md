@@ -6,6 +6,11 @@
 **Closed issues:**
 
 - Tag v1.1.0 release [\#9](https://github.com/nubisproject/nubisproject.github.io/issues/9)
+- Tag v1.1.0 release [\#16](https://github.com/nubisproject/nubisproject.github.io/issues/16)
+
+**Merged pull requests:**
+
+- Update CHANGELOG for v1.1.0 release [\#17](https://github.com/nubisproject/nubisproject.github.io/pull/17) ([tinnightcap](https://github.com/tinnightcap))
 
 ## [v1.0.1](https://github.com/nubisproject/nubisproject.github.io/tree/v1.0.1) (2015-11-20)
 [Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.0.0...v1.0.1)
