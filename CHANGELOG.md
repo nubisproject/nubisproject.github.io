@@ -1,5 +1,16 @@
 # Change Log
 
+## [v1.2.1](https://github.com/nubisproject/nubisproject.github.io/tree/v1.2.1) (2016-07-30)
+[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.2.0...v1.2.1)
+
+**Closed issues:**
+
+- Tag v1.2.1 release [\#20](https://github.com/nubisproject/nubisproject.github.io/issues/20)
+
+**Merged pull requests:**
+
+- Update CHANGELOG for v1.2.1 release [\#21](https://github.com/nubisproject/nubisproject.github.io/pull/21) ([tinnightcap](https://github.com/tinnightcap))
+
 ## [v1.2.0](https://github.com/nubisproject/nubisproject.github.io/tree/v1.2.0) (2016-07-07)
 [Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.1.0...v1.2.0)
 
