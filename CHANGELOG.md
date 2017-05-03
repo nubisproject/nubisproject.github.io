@@ -1,11 +1,26 @@
 # Change Log
 
-## [v1.3.0](https://github.com/nubisproject/nubisproject.github.io/tree/v1.3.0) (2016-12-20)
+## [v1.4.2](https://github.com/nubisproject/nubisproject.github.io/tree/v1.4.2) (2017-05-03)
+[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.4.1...v1.4.2)
+
+**Closed issues:**
+
+- Tag v1.4.0 release [\#27](https://github.com/nubisproject/nubisproject.github.io/issues/27)
+
+## [v1.4.1](https://github.com/nubisproject/nubisproject.github.io/tree/v1.4.1) (2016-12-21)
+[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.3.0...v1.4.1)
+
+## [v1.3.0](https://github.com/nubisproject/nubisproject.github.io/tree/v1.3.0) (2016-12-21)
 [Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.2.2...v1.3.0)
 
 **Closed issues:**
 
 - Tag v1.2.3 release [\#24](https://github.com/nubisproject/nubisproject.github.io/issues/24)
+- Tag v1.3.0 release [\#25](https://github.com/nubisproject/nubisproject.github.io/issues/25)
+
+**Merged pull requests:**
+
+- Update CHANGELOG for v1.3.0 release [\#26](https://github.com/nubisproject/nubisproject.github.io/pull/26) ([tinnightcap](https://github.com/tinnightcap))
 
 ## [v1.2.2](https://github.com/nubisproject/nubisproject.github.io/tree/v1.2.2) (2016-08-02)
 [Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.2.1...v1.2.2)
