@@ -1,26 +1,32 @@
 # Change Log
 
 ## [v1.4.2](https://github.com/nubisproject/nubisproject.github.io/tree/v1.4.2) (2017-05-03)
-[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.4.1...v1.4.2)
+[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.3.0...v1.4.2)
 
 **Closed issues:**
 
 - Tag v1.4.0 release [\#27](https://github.com/nubisproject/nubisproject.github.io/issues/27)
+- Tag v1.4.2 release [\#28](https://github.com/nubisproject/nubisproject.github.io/issues/28)
 
 **Merged pull requests:**
 
+- Merge v1.4.2 release into develop. \[skip ci\] [\#31](https://github.com/nubisproject/nubisproject.github.io/pull/31) ([tinnightcap](https://github.com/tinnightcap))
+- Update CHANGELOG for v1.4.2 release \[skip ci\] [\#30](https://github.com/nubisproject/nubisproject.github.io/pull/30) ([tinnightcap](https://github.com/tinnightcap))
 - Update CHANGELOG for v1.4.2 release \[skip ci\] [\#29](https://github.com/nubisproject/nubisproject.github.io/pull/29) ([tinnightcap](https://github.com/tinnightcap))
 
-## [v1.4.1](https://github.com/nubisproject/nubisproject.github.io/tree/v1.4.1) (2016-12-21)
-[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.3.0...v1.4.1)
-
 ## [v1.3.0](https://github.com/nubisproject/nubisproject.github.io/tree/v1.3.0) (2016-12-21)
-[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.2.2...v1.3.0)
+[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.4.1...v1.3.0)
+
+**Closed issues:**
+
+- Tag v1.3.0 release [\#25](https://github.com/nubisproject/nubisproject.github.io/issues/25)
+
+## [v1.4.1](https://github.com/nubisproject/nubisproject.github.io/tree/v1.4.1) (2016-12-21)
+[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.2.2...v1.4.1)
 
 **Closed issues:**
 
 - Tag v1.2.3 release [\#24](https://github.com/nubisproject/nubisproject.github.io/issues/24)
-- Tag v1.3.0 release [\#25](https://github.com/nubisproject/nubisproject.github.io/issues/25)
 
 **Merged pull requests:**
 
