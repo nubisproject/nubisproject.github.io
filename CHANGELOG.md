@@ -3,8 +3,14 @@
 ## [v1.5.1](https://github.com/nubisproject/nubisproject.github.io/tree/v1.5.1) (2017-08-11)
 [Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.5.0...v1.5.1)
 
+**Closed issues:**
+
+- Tag v1.5.1 release [\#35](https://github.com/nubisproject/nubisproject.github.io/issues/35)
+
 **Merged pull requests:**
 
+- Merge v1.5.1 release into develop. \[skip ci\] [\#38](https://github.com/nubisproject/nubisproject.github.io/pull/38) ([tinnightcap](https://github.com/tinnightcap))
+- Update CHANGELOG for v1.5.1 release \[skip ci\] [\#37](https://github.com/nubisproject/nubisproject.github.io/pull/37) ([tinnightcap](https://github.com/tinnightcap))
 - Update CHANGELOG for v1.5.1 release \[skip ci\] [\#36](https://github.com/nubisproject/nubisproject.github.io/pull/36) ([tinnightcap](https://github.com/tinnightcap))
 
 ## [v1.5.0](https://github.com/nubisproject/nubisproject.github.io/tree/v1.5.0) (2017-06-24)
