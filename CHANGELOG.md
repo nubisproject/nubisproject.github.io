@@ -1,15 +1,25 @@
 # Change Log
 
-## [v1.5.1](https://github.com/nubisproject/nubisproject.github.io/tree/v1.5.1) (2017-08-11)
+## [v2.0.0](https://github.com/nubisproject/nubisproject.github.io/tree/v2.0.0) (2017-10-05)
+[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.5.1...v2.0.0)
+
+**Merged pull requests:**
+
+- Migrate to mozilla slack [\#45](https://github.com/nubisproject/nubisproject.github.io/pull/45) ([tinnightcap](https://github.com/tinnightcap))
+
+## [v1.5.1](https://github.com/nubisproject/nubisproject.github.io/tree/v1.5.1) (2017-08-18)
 [Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.5.0...v1.5.1)
 
 **Closed issues:**
 
+- Tag v1.5.1 release [\#42](https://github.com/nubisproject/nubisproject.github.io/issues/42)
 - Tag v1.5.1 release [\#39](https://github.com/nubisproject/nubisproject.github.io/issues/39)
 - Tag v1.5.1 release [\#35](https://github.com/nubisproject/nubisproject.github.io/issues/35)
 
 **Merged pull requests:**
 
+- Merge v1.5.1 release into develop. \[skip ci\] [\#44](https://github.com/nubisproject/nubisproject.github.io/pull/44) ([tinnightcap](https://github.com/tinnightcap))
+- Update CHANGELOG for v1.5.1 release \[skip ci\] [\#43](https://github.com/nubisproject/nubisproject.github.io/pull/43) ([tinnightcap](https://github.com/tinnightcap))
 - Merge v1.5.1 release into develop. \[skip ci\] [\#41](https://github.com/nubisproject/nubisproject.github.io/pull/41) ([tinnightcap](https://github.com/tinnightcap))
 - Update CHANGELOG for v1.5.1 release \[skip ci\] [\#40](https://github.com/nubisproject/nubisproject.github.io/pull/40) ([tinnightcap](https://github.com/tinnightcap))
 - Merge v1.5.1 release into develop. \[skip ci\] [\#38](https://github.com/nubisproject/nubisproject.github.io/pull/38) ([tinnightcap](https://github.com/tinnightcap))
