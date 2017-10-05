@@ -3,8 +3,14 @@
 ## [v2.0.0](https://github.com/nubisproject/nubisproject.github.io/tree/v2.0.0) (2017-10-05)
 [Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.5.1...v2.0.0)
 
+**Closed issues:**
+
+- Tag v2.0.0 release [\#46](https://github.com/nubisproject/nubisproject.github.io/issues/46)
+
 **Merged pull requests:**
 
+- Merge v2.0.0 release into develop. \[skip ci\] [\#48](https://github.com/nubisproject/nubisproject.github.io/pull/48) ([tinnightcap](https://github.com/tinnightcap))
+- Update CHANGELOG for v2.0.0 release \[skip ci\] [\#47](https://github.com/nubisproject/nubisproject.github.io/pull/47) ([tinnightcap](https://github.com/tinnightcap))
 - Migrate to mozilla slack [\#45](https://github.com/nubisproject/nubisproject.github.io/pull/45) ([tinnightcap](https://github.com/tinnightcap))
 
 ## [v1.5.1](https://github.com/nubisproject/nubisproject.github.io/tree/v1.5.1) (2017-08-18)
