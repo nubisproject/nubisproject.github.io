@@ -1,14 +1,24 @@
 # Change Log
 
+## [v2.0.1](https://github.com/nubisproject/nubisproject.github.io/tree/v2.0.1) (2017-10-13)
+[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v2.0.0...v2.0.1)
+
+**Merged pull requests:**
+
+- Delete CNAME [\#52](https://github.com/nubisproject/nubisproject.github.io/pull/52) ([gozer](https://github.com/gozer))
+
 ## [v2.0.0](https://github.com/nubisproject/nubisproject.github.io/tree/v2.0.0) (2017-10-05)
 [Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.5.1...v2.0.0)
 
 **Closed issues:**
 
+- Tag v2.0.0 release [\#49](https://github.com/nubisproject/nubisproject.github.io/issues/49)
 - Tag v2.0.0 release [\#46](https://github.com/nubisproject/nubisproject.github.io/issues/46)
 
 **Merged pull requests:**
 
+- Merge v2.0.0 release into develop. \[skip ci\] [\#51](https://github.com/nubisproject/nubisproject.github.io/pull/51) ([tinnightcap](https://github.com/tinnightcap))
+- Update CHANGELOG for v2.0.0 release \[skip ci\] [\#50](https://github.com/nubisproject/nubisproject.github.io/pull/50) ([tinnightcap](https://github.com/tinnightcap))
 - Merge v2.0.0 release into develop. \[skip ci\] [\#48](https://github.com/nubisproject/nubisproject.github.io/pull/48) ([tinnightcap](https://github.com/tinnightcap))
 - Update CHANGELOG for v2.0.0 release \[skip ci\] [\#47](https://github.com/nubisproject/nubisproject.github.io/pull/47) ([tinnightcap](https://github.com/tinnightcap))
 - Migrate to mozilla slack [\#45](https://github.com/nubisproject/nubisproject.github.io/pull/45) ([tinnightcap](https://github.com/tinnightcap))
