@@ -3,8 +3,14 @@
 ## [v2.0.1](https://github.com/nubisproject/nubisproject.github.io/tree/v2.0.1) (2017-10-13)
 [Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v2.0.0...v2.0.1)
 
+**Closed issues:**
+
+- Tag v2.0.1 release [\#53](https://github.com/nubisproject/nubisproject.github.io/issues/53)
+
 **Merged pull requests:**
 
+- Merge v2.0.1 release into develop. \[skip ci\] [\#55](https://github.com/nubisproject/nubisproject.github.io/pull/55) ([tinnightcap](https://github.com/tinnightcap))
+- Update CHANGELOG for v2.0.1 release \[skip ci\] [\#54](https://github.com/nubisproject/nubisproject.github.io/pull/54) ([tinnightcap](https://github.com/tinnightcap))
 - Delete CNAME [\#52](https://github.com/nubisproject/nubisproject.github.io/pull/52) ([gozer](https://github.com/gozer))
 
 ## [v2.0.0](https://github.com/nubisproject/nubisproject.github.io/tree/v2.0.0) (2017-10-05)
