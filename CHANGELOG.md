@@ -1,5 +1,24 @@
 # Change Log
 
+## [v2.0.4](https://github.com/nubisproject/nubisproject.github.io/tree/v2.0.4) (2017-12-08)
+[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v2.0.3...v2.0.4)
+
+**Closed issues:**
+
+- Tag v2.0.4 release [\#62](https://github.com/nubisproject/nubisproject.github.io/issues/62)
+
+## [v2.0.3](https://github.com/nubisproject/nubisproject.github.io/tree/v2.0.3) (2017-11-02)
+[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v2.0.2...v2.0.3)
+
+**Closed issues:**
+
+- Tag v2.0.3 release [\#59](https://github.com/nubisproject/nubisproject.github.io/issues/59)
+
+**Merged pull requests:**
+
+- Merge v2.0.3 release into develop. \[skip ci\] [\#61](https://github.com/nubisproject/nubisproject.github.io/pull/61) ([tinnightcap](https://github.com/tinnightcap))
+- Update CHANGELOG for v2.0.3 release \[skip ci\] [\#60](https://github.com/nubisproject/nubisproject.github.io/pull/60) ([tinnightcap](https://github.com/tinnightcap))
+
 ## [v2.0.2](https://github.com/nubisproject/nubisproject.github.io/tree/v2.0.2) (2017-10-24)
 [Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v2.0.1...v2.0.2)
 
@@ -73,7 +92,7 @@
 - Update CHANGELOG for v1.5.0 release \[skip ci\] [\#33](https://github.com/nubisproject/nubisproject.github.io/pull/33) ([tinnightcap](https://github.com/tinnightcap))
 
 ## [v1.4.2](https://github.com/nubisproject/nubisproject.github.io/tree/v1.4.2) (2017-05-03)
-[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.3.0...v1.4.2)
+[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.4.1...v1.4.2)
 
 **Closed issues:**
 
@@ -86,19 +105,16 @@
 - Update CHANGELOG for v1.4.2 release \[skip ci\] [\#30](https://github.com/nubisproject/nubisproject.github.io/pull/30) ([tinnightcap](https://github.com/tinnightcap))
 - Update CHANGELOG for v1.4.2 release \[skip ci\] [\#29](https://github.com/nubisproject/nubisproject.github.io/pull/29) ([tinnightcap](https://github.com/tinnightcap))
 
-## [v1.3.0](https://github.com/nubisproject/nubisproject.github.io/tree/v1.3.0) (2016-12-21)
-[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.4.1...v1.3.0)
-
-**Closed issues:**
-
-- Tag v1.3.0 release [\#25](https://github.com/nubisproject/nubisproject.github.io/issues/25)
-
 ## [v1.4.1](https://github.com/nubisproject/nubisproject.github.io/tree/v1.4.1) (2016-12-21)
-[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.2.2...v1.4.1)
+[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.3.0...v1.4.1)
+
+## [v1.3.0](https://github.com/nubisproject/nubisproject.github.io/tree/v1.3.0) (2016-12-21)
+[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v1.2.2...v1.3.0)
 
 **Closed issues:**
 
 - Tag v1.2.3 release [\#24](https://github.com/nubisproject/nubisproject.github.io/issues/24)
+- Tag v1.3.0 release [\#25](https://github.com/nubisproject/nubisproject.github.io/issues/25)
 
 **Merged pull requests:**
 
