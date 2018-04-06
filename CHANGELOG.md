@@ -1,5 +1,17 @@
 # Change Log
 
+## [v2.1.0](https://github.com/nubisproject/nubisproject.github.io/tree/v2.1.0) (2018-02-02)
+[Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v2.0.4...v2.1.0)
+
+**Closed issues:**
+
+- Tag v2.1.0 release [\#63](https://github.com/nubisproject/nubisproject.github.io/issues/63)
+
+**Merged pull requests:**
+
+- Update CHANGELOG for v2.1.0 release \[skip ci\] [\#65](https://github.com/nubisproject/nubisproject.github.io/pull/65) ([nubis-automation](https://github.com/nubis-automation))
+- Update CHANGELOG for v2.1.0 release \[skip ci\] [\#64](https://github.com/nubisproject/nubisproject.github.io/pull/64) ([nubis-automation](https://github.com/nubis-automation))
+
 ## [v2.0.4](https://github.com/nubisproject/nubisproject.github.io/tree/v2.0.4) (2017-12-08)
 [Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v2.0.3...v2.0.4)
 
