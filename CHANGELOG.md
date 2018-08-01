@@ -6,6 +6,7 @@
 **Closed issues:**
 
 - Tag v2.2.0 release [\#66](https://github.com/nubisproject/nubisproject.github.io/issues/66)
+- Tag v2.3.0 release [\#81](https://github.com/nubisproject/nubisproject.github.io/issues/81)
 - Tag v2.3.0 release [\#78](https://github.com/nubisproject/nubisproject.github.io/issues/78)
 - Tag v2.3.0 release [\#75](https://github.com/nubisproject/nubisproject.github.io/issues/75)
 - Tag v2.3.0 release [\#72](https://github.com/nubisproject/nubisproject.github.io/issues/72)
@@ -13,6 +14,8 @@
 
 **Merged pull requests:**
 
+- Update CHANGELOG for v2.3.0 release \[skip ci\] [\#83](https://github.com/nubisproject/nubisproject.github.io/pull/83) ([nubis-automation](https://github.com/nubis-automation))
+- Update CHANGELOG for v2.3.0 release \[skip ci\] [\#82](https://github.com/nubisproject/nubisproject.github.io/pull/82) ([nubis-automation](https://github.com/nubis-automation))
 - Update CHANGELOG for v2.3.0 release \[skip ci\] [\#80](https://github.com/nubisproject/nubisproject.github.io/pull/80) ([nubis-automation](https://github.com/nubis-automation))
 - Update CHANGELOG for v2.3.0 release \[skip ci\] [\#79](https://github.com/nubisproject/nubisproject.github.io/pull/79) ([nubis-automation](https://github.com/nubis-automation))
 - Update CHANGELOG for v2.3.0 release \[skip ci\] [\#77](https://github.com/nubisproject/nubisproject.github.io/pull/77) ([nubis-automation](https://github.com/nubis-automation))
