@@ -1,17 +1,18 @@
 # Change Log
 
-## [v2.4.0](https://github.com/nubisproject/nubisproject.github.io/tree/v2.4.0) (2019-02-23)
+## [v2.4.0](https://github.com/nubisproject/nubisproject.github.io/tree/v2.4.0) (2019-03-05)
 [Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v2.4.0...v2.4.0)
 
 **Closed issues:**
 
-- Tag v2.4.0 release [\#108](https://github.com/nubisproject/nubisproject.github.io/issues/108)
+- Tag v2.4.0 release [\#111](https://github.com/nubisproject/nubisproject.github.io/issues/111)
 
 ## [v2.4.0](https://github.com/nubisproject/nubisproject.github.io/tree/v2.4.0) (2019-02-23)
 [Full Changelog](https://github.com/nubisproject/nubisproject.github.io/compare/v2.3.1...v2.4.0)
 
 **Closed issues:**
 
+- Tag v2.4.0 release [\#108](https://github.com/nubisproject/nubisproject.github.io/issues/108)
 - Tag v2.4.0 release [\#105](https://github.com/nubisproject/nubisproject.github.io/issues/105)
 - Tag v2.4.0 release [\#102](https://github.com/nubisproject/nubisproject.github.io/issues/102)
 - Tag v2.4.0 release [\#99](https://github.com/nubisproject/nubisproject.github.io/issues/99)
@@ -21,6 +22,8 @@
 
 **Merged pull requests:**
 
+- Update CHANGELOG for v2.4.0 release \[skip ci\] [\#113](https://github.com/nubisproject/nubisproject.github.io/pull/113) ([nubis-automation](https://github.com/nubis-automation))
+- Update CHANGELOG for v2.4.0 release \[skip ci\] [\#112](https://github.com/nubisproject/nubisproject.github.io/pull/112) ([nubis-automation](https://github.com/nubis-automation))
 - Update CHANGELOG for v2.4.0 release \[skip ci\] [\#110](https://github.com/nubisproject/nubisproject.github.io/pull/110) ([nubis-automation](https://github.com/nubis-automation))
 - Update CHANGELOG for v2.4.0 release \[skip ci\] [\#109](https://github.com/nubisproject/nubisproject.github.io/pull/109) ([nubis-automation](https://github.com/nubis-automation))
 - Update CHANGELOG for v2.4.0 release \[skip ci\] [\#107](https://github.com/nubisproject/nubisproject.github.io/pull/107) ([nubis-automation](https://github.com/nubis-automation))
